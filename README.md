@@ -1,7 +1,7 @@
 # TODO App
 
 ## Description
-TODO App ek simple task management application hai jisme users apne tasks ko add, view aur mark as done kar sakte hain.
+The TODO App is a simple task management application where users can add, view, and mark their tasks as done.
 
 ## Features
 - Add tasks with a title and description
@@ -16,10 +16,11 @@ TODO App ek simple task management application hai jisme users apne tasks ko add
 ## Getting Started
 
 ### Prerequisites
-- Aapko apne system par [Git](https://git-scm.com/) installed hona chahiye.
-- Aapko [Node.js](https://nodejs.org/) installed hona chahiye agar aap local server chalayana chahte hain.
+- You should have [Git](https://git-scm.com/) installed on your system.
+- You should have [Node.js](https://nodejs.org/) installed if you want to run a local server.
 
 ### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/ShubhamKumar6299/TODO-APP.git
+
